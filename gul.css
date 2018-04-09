@@ -1,0 +1,40 @@
+.about{
+  position: relative;
+  color: black;
+  background-color: cornflowerblue;
+
+
+}
+img{
+  float: right;
+  height: 600px;
+}
+h1{
+  text-align: center;
+}
+.abouthuma{
+padding-right: : 800;
+background-color: coral
+ }
+.kam{
+  padding-right: : 800;
+  background-color:coral
+}
+.abhi{
+  width:500;
+ padding-right: : 800;
+ background-color: coral
+}
+.point{  background-color:yellow;
+padding-right: : 800
+}
+.box{
+ border: 4px solid crimson;
+ padding: 2px;
+
+}
+.contact{
+  position: relative;
+  background-color:greenyellow;
+  font-size: 16px
+}
