@@ -13,7 +13,7 @@ moringaschool
 <li>want to see my portfolio
 <li>don't need to install anything
 <li>go to
- <a href="https://github.com/humagillani05/itsme/blob/master/gul.html">humagillani</a>
+ <a href="https://github.com/humagillani05/itsme">humagillani</a>
 
 
  ## known bugs
